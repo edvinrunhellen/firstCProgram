@@ -1,3 +1,9 @@
+//includes
+//stdlib
+//structs
+//minne
+//void *
+
 #include <stdio.h>
 
 void dont_do_this() 
@@ -34,6 +40,7 @@ int main()
 
 
 }
+
 
 
 
